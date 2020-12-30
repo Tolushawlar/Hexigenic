@@ -1,0 +1,11 @@
+.highlight-blue{
+    background-image: url(../media/curved-brick-building.jpg);
+    height: 60vh;
+}
+
+
+.svgfeat{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
